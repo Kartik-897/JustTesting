@@ -12,7 +12,7 @@
 - [Tests](#tests)
 - [License](#license)
 
-## Description
+## Descriptions
 
 JavaScript [MD5](https://en.wikipedia.org/wiki/MD5) implementation.  
 Compatible with server-side environments like [Node.js](https://nodejs.org/),
